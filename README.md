@@ -11,8 +11,7 @@
 
 <p align="center">
   <img src="assets/demo-keystrokes.png" alt="Keystrokes arriving in Telegram" width="400"/>
-  <img src="assets/demo-screenshot.png" alt="Screenshots arriving in Telegram" width="400"/>
-</p>
+  </p>
 
 <p align="center">
   <em>Keystrokes and screenshots delivered to your Telegram bot in real-time.</em>
