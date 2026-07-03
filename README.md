@@ -10,9 +10,7 @@
 ## 📸 Demo
 
 <p align="center">
-  <img src="assets/demo-keystrokes.png" alt="Keystrokes arriving in Telegram" width="400"/>
   <img src="assets/test.jpeg" alt="Keystrokes arriving in Telegram" width="400"/>
-  
   </p>
 
 <p align="center">
